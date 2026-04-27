@@ -8,7 +8,6 @@
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhinendrasinghh)
 
-## 🔥 Live Stats
 <!--START_SECTION:leetcode-->
 <!--END_SECTION:leetcode-->
 
