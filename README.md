@@ -5,11 +5,16 @@
 - Target: Crack high-package tech roles
 - Language: C++
 
-## 📊 Stats
-- Total Solved: X
-- Easy: X
-- Medium: X
-- Hard: X
+## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhinendrasinghh)
+
+---
+
+## 🔥 Live Stats
+<!--START_SECTION:leetcode-->
+<!--END_SECTION:leetcode-->
+
+
 
 ## 🗂️ Folder Structure
 - Easy/
