@@ -7,7 +7,7 @@
 - Language: C++
 - 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhinendrasinghh)
 
 ## 🔥 Live Stats
 <!--START_SECTION:leetcode-->
