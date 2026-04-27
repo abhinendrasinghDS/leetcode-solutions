@@ -8,18 +8,9 @@
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhinendrasinghh)
 
----
-
 ## 🔥 Live Stats
 <!--START_SECTION:leetcode-->
 <!--END_SECTION:leetcode-->
-
-
-
-## 🗂️ Folder Structure
-- Easy/
-- Medium/
-- Hard/
 
 ## 🔥 Recent Problems
 | Date | Problem | Difficulty |
