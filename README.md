@@ -11,12 +11,6 @@
 <!--START_SECTION:leetcode-->
 <!--END_SECTION:leetcode-->
 
-## 🔥 Recent Problems
-| Date | Problem | Difficulty |
-|------|--------|------------|
-| 2026-04-27 | Two Sum | Easy |
-| 2026-04-27 | Add Two Numbers | Medium |
-| 2026-04-27 | Longest Substring Without Repeating Characters | Medium |
 
 ## 🎯 Goals
 - Solve 300+ problems
