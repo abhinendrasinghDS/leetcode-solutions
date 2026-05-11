@@ -18,5 +18,5 @@
 - Maintain daily consistency
 
 ## ⚙️ Tech Stack
-- Language: C++
+- Language: C++,python
 - Platform: LeetCode
