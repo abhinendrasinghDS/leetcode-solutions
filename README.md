@@ -1,4 +1,3 @@
-# leetcode-solutions
 # LeetCode Progress 🚀
 ## 👨‍💻 About
 - Solving DSA problems daily
