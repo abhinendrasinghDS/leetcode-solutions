@@ -1,7 +1,7 @@
 # LeetCode Progress 🚀
 ## 👨‍💻 About
 - Solving DSA problems daily
-- Language: Python
+- Language: C++
 
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhinendrasinghh)
@@ -16,5 +16,5 @@
 - Maintain daily consistency
 
 ## ⚙️ Tech Stack
-- Language: Python
+- Language: C++
 - Platform: LeetCode
